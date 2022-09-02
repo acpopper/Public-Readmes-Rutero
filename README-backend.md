@@ -165,7 +165,7 @@ heroku container:push web --remote [remote]
 # Reemplazar [remote] con heroku para producción o staging para staging
 ```
 
-Up/run:
+Release:
 
 ```bash
 heroku container:release web --remote [remote]
